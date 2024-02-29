@@ -1,0 +1,4 @@
+Requests==2.31.0
+SpeechRecognition==3.10.1
+streamlit==1.31.1
+transformers==4.38.1
